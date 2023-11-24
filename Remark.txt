@@ -1,0 +1,90 @@
+    IF line_exists( ur_auth_val[ low = lc_x ] ).
+
+    ELSE.
+
+    ENDIF.
+
+
+"Insertion by Apip Req Tika INCTASK0676855 / D06K901803
+
+
+RS
+FIEHC
+FIEHC_CON_MSGTY_E
+
+ lw_tabix-option = imphs_c_option-equal.
+  lw_tabix-sign = imphs_c_sign-including.
+
+https://people.accenture.com/myprofile?Section=aboutme&tab=public
+
+COBL-HKONT IN ZTU_CO_020_HKONT AND
+SYST-CPROG = 'ZLK_E_RENT_IO_SETTLE' OR
+SYST-CPROG = 'ZLK_E_RENT_IO_SETTLE_NEW'
+nwdi_ctsadm
+ctssrvuser
+
+DOMAIN\LAN ID : TMT\AVIV.ARIFIAN
+PASSWORD : Jakarta#2028
+13143654
+
+SO_NEW_DOCUMENT_SEND_API1
+
+BS_ERD_120 -> BS_ERQ_230 -> BS_ES1_300
+BS_CRD_410 -> BS_CRQ_410 -> BS_CS1_400
+
+https://support.accenture.com/support_portal?id=acn_sac&sc_cat_id=9cc81d504f6c3f4406610ea28110c79b&spa=1&page=details
+
+INCTASK0749261
+
+SXMB_ADM
+
+ SELECT 'I' AS option, 'EQ' AS sign, hkont AS low
+      FROM @lt_section1 AS lt_section1_temp
+      INTO TABLE @lr_racct.
+
+1Cung2027
+2FewMUMKTyHW
+
+Name	User ID	Password
+aviv arifian	aviv.arifian	SB)IphF#Zv8(
+Ridwan
+Ridwan@888
+
+Elisse-5786263	odzq6524
+
+v_acndev34       Aviv       Arifian
+Ganteng123
+
+
+
+
+Kindly delete adjacent duplicate before FAE (For All Entries) if the condition that used to FAE is not primary key. Please put into temporary itab then use the itab temporary to select FAE. Don’t forget to free the itab temporary once used.
+
+lv_rfcdest = zcl_crm_interface=>get_rfc_destination( ).
+
+tcode cek pricing di GUI crmd_order
+
+tcode /n/SAPCND/UEASS untuk cek mapping file java pricing, REQ --> Requirement
+
+TRACE PRICING DI WEB UI
+tcode SU01
+add PRC_TRACE / PRC_CALC_TRACE di parameters berikan value 'X'
+buka CRM Web gui masuk ke item detail buka condition price lalu klik trace, disana kita bisa trace kenapa proses pricing nya
+
+lv_rfcdest = zcl_crm_interface=>get_rfc_destination( ). 
+if_xo_const_message=>error.
+
+TRINT_CORR_CHECK
+TRINT_CORR_INSERT
+
+Dear @MST-SAP.BASIS,
+ 
+Kindly need your help to switch SPROXY on ERD120 from POD to PDI.
+ 
+Thank you.
+Regards,
+Aviv Arifian D.
+
+<lf_vst>-quotation_no = |{ <lf_vst>-quotation_no ALPHA = OUT }|.
+
+KawaZX25R!
